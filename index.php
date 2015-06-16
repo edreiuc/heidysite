@@ -16,15 +16,15 @@ include 'header.php';
 	                    </div>						
 	                </div>
 	               	<div class="bottom">
-	                    <a class="btn btn-primary btn-twitter btn-sm" href="https://twitter.com/webmaniac">
+	                    <a class="btn btn-primary btn-twitter btn-sm" href="https://twitter.com/yDiieheiizka">
 	                        <i class="fa fa-twitter"></i>
 	                    </a>
 	                    <a class="btn btn-danger btn-sm" rel="publisher"
-	                       href="https://plus.google.com/+ahmshahnuralam">
+	                       href="https://plus.google.com/u/1/108524475324719062684/posts">
 	                        <i class="fa fa-google-plus"></i>
 	                    </a>
 	                    <a class="btn btn-primary btn-sm" rel="publisher"
-	                       href="https://plus.google.com/shahnuralam">
+	                       href="https://www.facebook.com/prinsheidy?ref=ts&fref=ts">
 	                        <i class="fa fa-facebook"></i>
 	                    </a>
 	                </div>
