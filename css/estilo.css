@@ -1,0 +1,120 @@
+@font-face {
+    font-family: 'Roboto-Regular';
+    src: url('../fonts/roboto/Roboto-Regular.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'RobotoCondensed-Regular';
+    src: url('../fonts/roboto/RobotoCondensed-Regular.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'Roboto-Light';
+    src: url('../fonts/roboto/Roboto-Light.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'AuthenticRatatouille';
+    src: url('../fonts/AuthenticRatatouille.otf') format('opentype');
+}
+
+@font-face {
+    font-family: 'MyriadBold';
+    src: url('../fonts/myriad/MyriadBold.ttf') format('truetype');
+}
+
+
+body{
+    font-family: 'Roboto-Regular', sans-serif;
+}
+
+.name h1{
+    font-family: 'AuthenticRatatouille';
+    text-align: center;
+    font-size: 3em;
+}
+
+@media (max-width: 384px) {
+    .name h1{
+        font-family: 'AuthenticRatatouille';
+        text-align: center;
+        font-size: 2em;
+    }
+}
+
+.padbut{
+    padding-bottom:3%;
+}
+
+.space1{
+    padding-top: 2%;
+}
+
+#backgr{
+	background: white url(../img/congruent_pentagon.png);
+    background-repeat: repeat;
+}
+
+.naveg{
+	background-color: rgba(255, 255, 255, 1);
+	/* height: 100%; */
+    width: 100%;
+}
+
+.feet{
+	background: #4679BD;
+}
+
+.imgcenter {
+    margin: 0 auto;
+}
+
+
+.textfoot{
+    margin: 0 40px 10px;
+    color: #fff;
+}
+
+.subtit h2{
+    background-color: #B438C7;
+    font-family: 'RobotoCondensed-Regular';
+    text-align: center;
+    color: #fff;
+}
+
+.blancos{
+    background-color:#779CC9;
+}
+
+.fontnormal{
+    font-family: 'Roboto-Light';
+    text-align: center;
+    font-size: 14px;
+    color: #000;
+}
+
+.fontnormal a{
+    color:#fff;
+}
+
+.fontnormal a:hover{
+    color: #B438C7;
+    text-decoration: none;
+}
+
+.img-hover img {
+    -webkit-transition: all .3s ease; /* Safari and Chrome */
+    -moz-transition: all .3s ease; /* Firefox */
+    -o-transition: all .3s ease; /* IE 9 */
+    -ms-transition: all .3s ease; /* Opera */
+    transition: all .3s ease;
+}
+.img-hover img:hover {
+    -webkit-backface-visibility: hidden;
+    backface-visibility: hidden;
+    -webkit-transform:translateZ(0) scale(1.06); /* Safari and Chrome */
+    -moz-transform:scale(1.06); /* Firefox */
+    -ms-transform:scale(1.06); /* IE 9 */
+    -o-transform:translatZ(0) scale(1.06); /* Opera */
+    transform:translatZ(0) scale(1.06);
+}
