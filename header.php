@@ -9,8 +9,10 @@
 	<meta name="description" content="Sitio presentacion sobre detalles profesionales de la Ingeniera Heidy Canche Ceballos">
 	<meta name="keywords" content="Heidy Canche,IT Chiná,Egresada,Ingeniera en administración,Administracion,Marketign,Auditorias">
 	<link href='http://fonts.googleapis.com/css?family=Roboto%7CPlay%7CRoboto+Condensed%7CRoboto+Slab' rel='stylesheet' type='text/css'>
+	<link href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css" rel="stylesheet">
 	<link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
 	<link rel="stylesheet" type="text/css" href="css/estilo.css">
+	<link rel="stylesheet" type="text/css" href="css/card.css">
 	<link rel="stylesheet" type="text/css" href="css/sticky.css">
 	<link rel="shortcut icon" href="img/hclog.png" /> 
 </head>

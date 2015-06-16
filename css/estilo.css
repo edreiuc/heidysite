@@ -4,6 +4,11 @@
 }
 
 @font-face {
+    font-family: 'Darleston';
+    src: url('../fonts/Darleston.otf') format('opentype');
+}
+
+@font-face {
     font-family: 'RobotoCondensed-Regular';
     src: url('../fonts/roboto/RobotoCondensed-Regular.ttf') format('truetype');
 }
@@ -34,11 +39,25 @@ body{
     font-size: 3em;
 }
 
+.vers{
+    font-family: 'Darleston';
+    color:#E6E3E3;
+    font-size: 3em;
+    text-align: center;
+}
+
 @media (max-width: 384px) {
     .name h1{
         font-family: 'AuthenticRatatouille';
         text-align: center;
         font-size: 2em;
+    }
+
+    .vers{
+        font-family: 'Darleston';
+        color:#E6E3E3;
+        font-size: 2em;
+        text-align: center;
     }
 }
 
@@ -117,4 +136,27 @@ body{
     -ms-transform:scale(1.06); /* IE 9 */
     -o-transform:translatZ(0) scale(1.06); /* Opera */
     transform:translatZ(0) scale(1.06);
+}
+
+.thumbnail {
+    background-color:transparent;
+    border: none;
+}
+
+.caption h3{
+    text-align: center;
+}
+
+.thumbnail h3:hover{
+    color: #fff;
+}
+
+.fover{
+    font-family: 'Roboto-Light';
+    color: #fff;
+    text-align: center;
+}
+
+.foote{
+    background:#4679BD;
 }

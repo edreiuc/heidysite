@@ -1,14 +1,14 @@
 
 		<!--FOOTER-->
-		<div id="footer">
+		<div class="foote">
 	      	<div class="container">
 		      	<div class="row">
-			        <div class="col-md-6">
-			        	
+			        <div class="col-md-12">
+	
+			        	<p class="vers"><strong>"</strong>Porque el Señor da la sabiduría; conocimiento y ciencia brotan de sus labios.<strong>"</strong></p>
+						<h4 class="fover">Proverbios 2:6 NVI</h4>
 			        </div>
-			        <div class="col-md-6">
-			        	
-			        </div>
+
 			        <div class="col-lg-12 espacio1 fontnormal"><p>Sitio elaborado por <a target="_blank" href="http://edreiuc.esy.es">Samuel UC</a> - Copyright © 2015. Todos los Derechos Reservados</p></div>
 				</div>
 			</div>
