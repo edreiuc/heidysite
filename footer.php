@@ -15,5 +15,23 @@
 		</div>
 	<script type="text/javascript" src="js/jquery.js"></script>
 	<script type="text/javascript" src="js/bootstrap.min.js"></script>
+	<script>
+		$( document ).ready(function() {
+		    $("[rel='tooltip']").tooltip();    
+		 
+		    $('.thumbnail').hover(
+		        function(){
+		            $(this).find('.caption').slideDown(250); //.fadeIn(250)
+		        },
+		        function(){
+		            $(this).find('.caption').slideUp(250); //.fadeOut(205)
+		        }
+		    );
+
+		    $('#modal-content').modal({
+			    show: true
+			}); 
+		});
+	</script>
 </body>
 </html>

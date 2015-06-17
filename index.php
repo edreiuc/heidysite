@@ -12,11 +12,12 @@ include 'header.php';
 	                </div>
 	                <div class="avatar">
 	                	<div class="img-hover">
-	                    	<img alt="" src="img/heidy.jpg">
-	                    </div>						
+	                    	<img alt="" src="img/heidy1.jpg">
+	                    </div>
+
 	                </div>
 	               	<div class="bottom">
-	                    <a class="btn btn-primary btn-twitter btn-sm" href="https://twitter.com/yDiieheiizka">
+	                    <a class="btn btn-info btn-twitter btn-sm" href="https://twitter.com/yDiieheiizka">
 	                        <i class="fa fa-twitter"></i>
 	                    </a>
 	                    <a class="btn btn-danger btn-sm" rel="publisher"
@@ -26,6 +27,10 @@ include 'header.php';
 	                    <a class="btn btn-primary btn-sm" rel="publisher"
 	                       href="https://www.facebook.com/prinsheidy?ref=ts&fref=ts">
 	                        <i class="fa fa-facebook"></i>
+	                    </a>
+	                    <a class="btn btn-default btn-sm" rel="publisher"
+	                       href="mailto:heidy_cceballos@hotmail.com">
+	                        <i class="fa fa-envelope"></i>
 	                    </a>
 	                </div>
                 
@@ -48,7 +53,7 @@ include 'header.php';
 							<div class="panel-body">
 								<p><strong>Fecha de Nacimiento: </strong>17-Junio-1992 <br><strong>Nacionalidad: </strong>Mexicana<br>San Francisco de Campeche, CAMPECHE</p>
 								<br>
-								<p>Tengo 22 años, me considero una persona con iniciativa y espíritu emprendedor, capaz de trabajar en forma autónoma con un compromiso ético; soy dinámica y servicial de objetivos definidos</p>
+								<p>Tengo 23 años, me considero una persona con iniciativa y espíritu emprendedor, capaz de trabajar en forma autónoma con un compromiso ético; soy dinámica y servicial de objetivos definidos</p>
 							</div>
 						</div>
 					</div>
@@ -113,7 +118,26 @@ include 'header.php';
 			</div>
 		</div>
 	</div>
-</div>	
+</div>
+
+		<div id="modal-content" class="modal fade" tabindex="-1" role="dialog">
+		    <div class="modal-dialog">
+		        <div class="modal-content">
+		            <div class="modal-header">
+		                <button type="button" class="close" data-dismiss="modal">×</button>
+		                <h3>Sorpresa Bebe</h3>
+		            </div>
+		            <div class="modal-body name">
+		                <h1>Feliz Cumpleaños mi Amor</h1>
+		                <img src="img/feliz16.png" class="img-responsive imgcenter" alt="cumple heidy">
+		            </div>           
+
+		        </div>
+		    </div>
+		</div>
+
+
+
 </div><!--Container final-->
 <?php
 include 'footer.php';
