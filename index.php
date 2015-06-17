@@ -25,7 +25,7 @@ include 'header.php';
 	                        <i class="fa fa-google-plus"></i>
 	                    </a>
 	                    <a class="btn btn-primary btn-sm" rel="publisher"
-	                       href="https://www.facebook.com/prinsheidy?ref=ts&fref=ts">
+	                       href="https://www.facebook.com/prinsheidy?ref=ts&amp;fref=ts">
 	                        <i class="fa fa-facebook"></i>
 	                    </a>
 	                    <a class="btn btn-default btn-sm" rel="publisher"
@@ -129,7 +129,7 @@ include 'header.php';
 		            </div>
 		            <div class="modal-body name">
 		                <h1>Feliz Cumpleaños mi Amor</h1>
-		                <img src="img/feliz16.png" class="img-responsive imgcenter" alt="cumple heidy">
+		                <img src="img/feliz16.jpg" class="img-responsive imgcenter" alt="cumple heidy">
 		            </div>           
 
 		        </div>

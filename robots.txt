@@ -1,0 +1,2 @@
+Sitemap: http://heidycanche.esy.es/sitemap.xml
+User-agent: *
